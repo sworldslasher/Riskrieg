@@ -1,0 +1,701 @@
+{
+  "name": "baltic-states",
+  "displayName": "Baltic States",
+  "author": "Sula Feet Studios",
+  "status": "AVAILABLE",
+  "territories": [
+    {
+      "name": "1A",
+      "seedPoints": [
+        {
+          "x": 719,
+          "y": 345
+        }
+      ],
+      "neighbors": [
+        "1F",
+        "5A",
+        "6C"
+      ]
+    },
+    {
+      "name": "1B",
+      "seedPoints": [
+        {
+          "x": 999,
+          "y": 387
+        }
+      ],
+      "neighbors": [
+        "2B",
+        "6C"
+      ]
+    },
+    {
+      "name": "1C",
+      "seedPoints": [
+        {
+          "x": 1454,
+          "y": 128
+        }
+      ],
+      "neighbors": [
+        "1D",
+        "2C",
+        "2D",
+        "6B",
+        "7B"
+      ]
+    },
+    {
+      "name": "1D",
+      "seedPoints": [
+        {
+          "x": 1519,
+          "y": 213
+        }
+      ],
+      "neighbors": [
+        "1C",
+        "1E",
+        "2D",
+        "3E",
+        "7B"
+      ]
+    },
+    {
+      "name": "1E",
+      "seedPoints": [
+        {
+          "x": 1445,
+          "y": 269
+        }
+      ],
+      "neighbors": [
+        "1D",
+        "2D",
+        "2E",
+        "3E"
+      ]
+    },
+    {
+      "name": "1F",
+      "seedPoints": [
+        {
+          "x": 948,
+          "y": 823
+        }
+      ],
+      "neighbors": [
+        "1A",
+        "2F",
+        "8D",
+        "8E"
+      ]
+    },
+    {
+      "name": "1G",
+      "seedPoints": [
+        {
+          "x": 1529,
+          "y": 801
+        }
+      ],
+      "neighbors": [
+        "2G",
+        "3F"
+      ]
+    },
+    {
+      "name": "2A",
+      "seedPoints": [
+        {
+          "x": 1025,
+          "y": 207
+        }
+      ],
+      "neighbors": [
+        "2B",
+        "3A",
+        "3B"
+      ]
+    },
+    {
+      "name": "2B",
+      "seedPoints": [
+        {
+          "x": 1036,
+          "y": 365
+        }
+      ],
+      "neighbors": [
+        "1B",
+        "2A",
+        "5C",
+        "6C"
+      ]
+    },
+    {
+      "name": "2C",
+      "seedPoints": [
+        {
+          "x": 1308,
+          "y": 158
+        }
+      ],
+      "neighbors": [
+        "1C",
+        "2D",
+        "3B",
+        "3C",
+        "5B",
+        "6B"
+      ]
+    },
+    {
+      "name": "2D",
+      "seedPoints": [
+        {
+          "x": 1393,
+          "y": 244
+        }
+      ],
+      "neighbors": [
+        "1C",
+        "1D",
+        "1E",
+        "2C",
+        "2E",
+        "3C",
+        "3D"
+      ]
+    },
+    {
+      "name": "2E",
+      "seedPoints": [
+        {
+          "x": 1434,
+          "y": 335
+        }
+      ],
+      "neighbors": [
+        "1E",
+        "2D",
+        "3D",
+        "3E",
+        "4E"
+      ]
+    },
+    {
+      "name": "2F",
+      "seedPoints": [
+        {
+          "x": 1191,
+          "y": 747
+        }
+      ],
+      "neighbors": [
+        "1F",
+        "3F",
+        "6D",
+        "7E",
+        "8E"
+      ]
+    },
+    {
+      "name": "2G",
+      "seedPoints": [
+        {
+          "x": 1554,
+          "y": 620
+        }
+      ],
+      "neighbors": [
+        "1G",
+        "3F",
+        "4F",
+        "5F"
+      ]
+    },
+    {
+      "name": "3A",
+      "seedPoints": [
+        {
+          "x": 1018,
+          "y": 125
+        }
+      ],
+      "neighbors": [
+        "2A",
+        "4A"
+      ]
+    },
+    {
+      "name": "3B",
+      "seedPoints": [
+        {
+          "x": 1253,
+          "y": 160
+        }
+      ],
+      "neighbors": [
+        "2A",
+        "2C",
+        "3C",
+        "4A",
+        "4B",
+        "5B"
+      ]
+    },
+    {
+      "name": "3C",
+      "seedPoints": [
+        {
+          "x": 1256,
+          "y": 285
+        }
+      ],
+      "neighbors": [
+        "2C",
+        "2D",
+        "3B",
+        "3D",
+        "4C"
+      ]
+    },
+    {
+      "name": "3D",
+      "seedPoints": [
+        {
+          "x": 1325,
+          "y": 379
+        }
+      ],
+      "neighbors": [
+        "2D",
+        "2E",
+        "3C",
+        "3E",
+        "4C",
+        "4D",
+        "4E",
+        "5E"
+      ]
+    },
+    {
+      "name": "3E",
+      "seedPoints": [
+        {
+          "x": 1490,
+          "y": 306
+        }
+      ],
+      "neighbors": [
+        "1D",
+        "1E",
+        "2E",
+        "3D",
+        "4E"
+      ]
+    },
+    {
+      "name": "3F",
+      "seedPoints": [
+        {
+          "x": 1265,
+          "y": 746
+        }
+      ],
+      "neighbors": [
+        "1G",
+        "2F",
+        "2G",
+        "4F",
+        "7E"
+      ]
+    },
+    {
+      "name": "4A",
+      "seedPoints": [
+        {
+          "x": 1111,
+          "y": 84
+        }
+      ],
+      "neighbors": [
+        "3A",
+        "3B",
+        "4B",
+        "5A"
+      ]
+    },
+    {
+      "name": "4B",
+      "seedPoints": [
+        {
+          "x": 1217,
+          "y": 75
+        }
+      ],
+      "neighbors": [
+        "3B",
+        "4A",
+        "5A",
+        "5B"
+      ]
+    },
+    {
+      "name": "4C",
+      "seedPoints": [
+        {
+          "x": 1257,
+          "y": 417
+        }
+      ],
+      "neighbors": [
+        "3C",
+        "3D",
+        "4D",
+        "5C",
+        "5D"
+      ]
+    },
+    {
+      "name": "4D",
+      "seedPoints": [
+        {
+          "x": 1285,
+          "y": 481
+        }
+      ],
+      "neighbors": [
+        "3D",
+        "4C",
+        "5D",
+        "5E",
+        "6E"
+      ]
+    },
+    {
+      "name": "4E",
+      "seedPoints": [
+        {
+          "x": 1538,
+          "y": 452
+        }
+      ],
+      "neighbors": [
+        "3D",
+        "3E",
+        "5E",
+        "5F"
+      ]
+    },
+    {
+      "name": "4F",
+      "seedPoints": [
+        {
+          "x": 1388,
+          "y": 651
+        }
+      ],
+      "neighbors": [
+        "2G",
+        "3F",
+        "5F",
+        "6E",
+        "7E"
+      ]
+    },
+    {
+      "name": "5A",
+      "seedPoints": [
+        {
+          "x": 1270,
+          "y": 3
+        }
+      ],
+      "neighbors": [
+        "1A",
+        "4A",
+        "4B",
+        "5B",
+        "6A"
+      ]
+    },
+    {
+      "name": "5B",
+      "seedPoints": [
+        {
+          "x": 1297,
+          "y": 49
+        }
+      ],
+      "neighbors": [
+        "2C",
+        "3B",
+        "4B",
+        "5A",
+        "6A",
+        "6B"
+      ]
+    },
+    {
+      "name": "5C",
+      "seedPoints": [
+        {
+          "x": 1096,
+          "y": 442
+        }
+      ],
+      "neighbors": [
+        "2B",
+        "4C",
+        "5D",
+        "6C",
+        "6D",
+        "7D"
+      ]
+    },
+    {
+      "name": "5D",
+      "seedPoints": [
+        {
+          "x": 1137,
+          "y": 511
+        }
+      ],
+      "neighbors": [
+        "4C",
+        "4D",
+        "5C",
+        "6D",
+        "6E"
+      ]
+    },
+    {
+      "name": "5E",
+      "seedPoints": [
+        {
+          "x": 1388,
+          "y": 519
+        }
+      ],
+      "neighbors": [
+        "3D",
+        "4D",
+        "4E",
+        "5F",
+        "6E"
+      ]
+    },
+    {
+      "name": "5F",
+      "seedPoints": [
+        {
+          "x": 1539,
+          "y": 568
+        }
+      ],
+      "neighbors": [
+        "2G",
+        "4E",
+        "4F",
+        "5E",
+        "6E"
+      ]
+    },
+    {
+      "name": "6A",
+      "seedPoints": [
+        {
+          "x": 1296,
+          "y": 3
+        }
+      ],
+      "neighbors": [
+        "5A",
+        "5B",
+        "6B",
+        "7A"
+      ]
+    },
+    {
+      "name": "6B",
+      "seedPoints": [
+        {
+          "x": 1384,
+          "y": 97
+        }
+      ],
+      "neighbors": [
+        "1C",
+        "2C",
+        "5B",
+        "6A",
+        "7A",
+        "7B"
+      ]
+    },
+    {
+      "name": "6C",
+      "seedPoints": [
+        {
+          "x": 1010,
+          "y": 476
+        }
+      ],
+      "neighbors": [
+        "1A",
+        "1B",
+        "2B",
+        "5C",
+        "7D",
+        "8D"
+      ]
+    },
+    {
+      "name": "6D",
+      "seedPoints": [
+        {
+          "x": 1085,
+          "y": 606
+        }
+      ],
+      "neighbors": [
+        "2F",
+        "5C",
+        "5D",
+        "6E",
+        "7D",
+        "7E",
+        "8E"
+      ]
+    },
+    {
+      "name": "6E",
+      "seedPoints": [
+        {
+          "x": 1273,
+          "y": 575
+        }
+      ],
+      "neighbors": [
+        "4D",
+        "4F",
+        "5D",
+        "5E",
+        "5F",
+        "6D",
+        "7E"
+      ]
+    },
+    {
+      "name": "7A",
+      "seedPoints": [
+        {
+          "x": 1383,
+          "y": 3
+        }
+      ],
+      "neighbors": [
+        "6A",
+        "6B",
+        "7B",
+        "8A"
+      ]
+    },
+    {
+      "name": "7B",
+      "seedPoints": [
+        {
+          "x": 1508,
+          "y": 70
+        }
+      ],
+      "neighbors": [
+        "1C",
+        "1D",
+        "6B",
+        "7A",
+        "8A"
+      ]
+    },
+    {
+      "name": "7D",
+      "seedPoints": [
+        {
+          "x": 1009,
+          "y": 611
+        }
+      ],
+      "neighbors": [
+        "5C",
+        "6C",
+        "6D",
+        "8D",
+        "8E"
+      ]
+    },
+    {
+      "name": "7E",
+      "seedPoints": [
+        {
+          "x": 1203,
+          "y": 654
+        }
+      ],
+      "neighbors": [
+        "2F",
+        "3F",
+        "4F",
+        "6D",
+        "6E"
+      ]
+    },
+    {
+      "name": "8A",
+      "seedPoints": [
+        {
+          "x": 1499,
+          "y": 3
+        }
+      ],
+      "neighbors": [
+        "7A",
+        "7B"
+      ]
+    },
+    {
+      "name": "8D",
+      "seedPoints": [
+        {
+          "x": 987,
+          "y": 624
+        }
+      ],
+      "neighbors": [
+        "1F",
+        "6C",
+        "7D",
+        "8E"
+      ]
+    },
+    {
+      "name": "8E",
+      "seedPoints": [
+        {
+          "x": 1053,
+          "y": 740
+        }
+      ],
+      "neighbors": [
+        "1F",
+        "2F",
+        "6D",
+        "7D",
+        "8D"
+      ]
+    }
+  ]
+}
